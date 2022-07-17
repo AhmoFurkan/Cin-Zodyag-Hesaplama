@@ -39,3 +39,12 @@ import java.util.Scanner;
         }
       }
      }
+     
+     
+     
+  
+  
+  
+  ![image](https://user-images.githubusercontent.com/107626332/179390293-a72a7857-000f-420f-a9cc-48a8ce112895.png)
+
+
